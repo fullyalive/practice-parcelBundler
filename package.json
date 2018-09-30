@@ -1,0 +1,10 @@
+{
+  "name": "practice-parcelBundler",
+  "version": "1.0.0",
+  "description": "Practicing parcel-bundler",
+  "main": "index.js",
+  "repository": "https://github.com/fullyalive/practice-parcelBundler.git",
+  "author": "fullyalive <wogud1202@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
